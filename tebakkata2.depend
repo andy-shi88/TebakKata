@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385244313 source:e:\tebakkata\main.cpp
+	<iostream>
+
+1387243202 source:e:\tebakkata version 2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<mmsystem.h>
+
