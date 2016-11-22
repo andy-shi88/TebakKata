@@ -4,3 +4,5 @@ Featuring background sound of Fairy tail
 It's in Indonesia thoug, 
 forgive me for inefective code, It was 3 years ago after all.
 Enjoy.
+
+Visit me: https://www.AInewbie.wordpress.com
